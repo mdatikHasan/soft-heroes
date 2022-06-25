@@ -1,6 +1,6 @@
 # Soft Heroes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live website netlify link:  [Soft Heroes](https://mellifluous-mousse-206e56.netlify.app/).
 
 ## Available Scripts
 
