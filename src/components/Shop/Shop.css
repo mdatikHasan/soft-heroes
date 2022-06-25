@@ -1,0 +1,14 @@
+.shop{
+    color: white;
+    margin: 10px 10px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    
+}
+
+.developers{
+    background-color: #f2f2f281;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}

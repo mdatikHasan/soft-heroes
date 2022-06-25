@@ -1,0 +1,14 @@
+.cart{
+    margin: 0px 0 0 5px;
+    
+    
+}
+.cart h2, h3, h4{
+    margin-bottom: 30px;
+}
+.cart h2 span, h3 span, h4 span{
+    color:lightseagreen;
+}
+.cart-btn{
+    text-align: center;
+}
