@@ -1,6 +1,6 @@
 # Soft Heroes
 
-Live website netlify link:  [Soft Heroes](https://mellifluous-mousse-206e56.netlify.app/).
+Live website netlify link:  [Soft Heroes](https://soft-heroes.netlify.app/).
 
 ## Available Scripts
 
